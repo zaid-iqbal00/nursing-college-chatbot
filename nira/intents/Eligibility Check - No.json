@@ -1,0 +1,37 @@
+{
+  "id": "8d67f8c0-d1e5-44c3-9086-378cab607245",
+  "name": "Eligibility Check - No",
+  "auto": true,
+  "contexts": [
+    "awaiting_eligibility"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "B.Sc Nursing mein admission ke liye Biology avashyak hai.\" (Biology is a requirement for admission in B.Sc Nursing"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

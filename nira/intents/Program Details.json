@@ -1,0 +1,42 @@
+{
+  "id": "00e281b8-9119-425f-8d98-30e57631b2aa",
+  "name": "Program Details",
+  "auto": true,
+  "contexts": [
+    "awaiting_program_details"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_fee_structure",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The B.Sc Nursing program is full-time. It’s designed to prepare you for a career in nursing, including clinical training and hospital experience. Would you like to know more about the fee structure or facilities?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

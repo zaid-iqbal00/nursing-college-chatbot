@@ -1,0 +1,42 @@
+{
+  "id": "b40460ab-4391-49d5-9bcd-b67cd8048f26",
+  "name": "Scholarship Options",
+  "auto": true,
+  "contexts": [
+    "awaiting_scholarships_info"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_seats_info",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We offer scholarships such as the Government Post-Matric Scholarship (₹18k–₹23k) and Labour Ministry Scholarships (₹40k–₹48k) for those with Labour Registration."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

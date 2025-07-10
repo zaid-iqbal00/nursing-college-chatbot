@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c05f228c-e360-4f2d-b764-8ca26ccf91e6",
+    "data": [
+      {
+        "text": "Tell me the admission requirements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f94d8ac-e3e7-4c71-9334-64df7dd3a072",
+    "data": [
+      {
+        "text": "Who can apply?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c03bfa6d-6c27-427e-80d6-5d4df3d76864",
+    "data": [
+      {
+        "text": "What are the eligibility criteria?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

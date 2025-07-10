@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ff145677-ebf8-47b8-bb91-3a2a2af692a9",
+    "data": [
+      {
+        "text": "Where will I get my hospital training?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19a08c4d-dd66-4e81-9e6e-86e46d2d7e4f",
+    "data": [
+      {
+        "text": "What are the clinical training locations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b897cb79-e3ee-4575-8969-bc6fd0ca812b",
+    "data": [
+      {
+        "text": "Where will I do my clinical training?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

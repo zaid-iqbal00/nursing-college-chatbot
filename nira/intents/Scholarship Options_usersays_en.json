@@ -1,0 +1,41 @@
+[
+  {
+    "id": "2e175511-b2a4-4a63-ba84-eae53b39d689",
+    "data": [
+      {
+        "text": "What scholarships are available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87a3f964-7573-48bd-aff2-271587e23e9c",
+    "data": [
+      {
+        "text": "Tell me about scholarships",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4192ff28-d4d5-4ef6-a40a-880621f02cb3",
+    "data": [
+      {
+        "text": "Are there any scholarships?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

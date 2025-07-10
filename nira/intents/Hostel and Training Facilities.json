@@ -1,0 +1,42 @@
+{
+  "id": "052eb049-35d5-4932-af92-0bb388235136",
+  "name": "Hostel and Training Facilities",
+  "auto": true,
+  "contexts": [
+    "awaiting_hostel_and_training"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_location_info",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our hostel offers 24/7 water and electricity, CCTV surveillance for security, and a warden on-site. Additionally, you will receive hospital training and work with real patients during your studies."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

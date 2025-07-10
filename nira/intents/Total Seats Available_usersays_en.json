@@ -1,0 +1,41 @@
+[
+  {
+    "id": "4a7fafe7-27a7-490e-acc4-9ea8ff86c20e",
+    "data": [
+      {
+        "text": "What is the total number of seats?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9a8113d-fc71-42fd-bcff-94b607dd8bd8",
+    "data": [
+      {
+        "text": "How many students can apply?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04415d71-973a-49f7-82ca-d8817a0368bd",
+    "data": [
+      {
+        "text": "How many seats are available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

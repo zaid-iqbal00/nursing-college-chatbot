@@ -1,0 +1,80 @@
+[
+  {
+    "id": "40c3fa98-ae23-4a71-9f4d-175c0b70d928",
+    "data": [
+      {
+        "text": "What are the hostel facilities?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bea340e0-2672-499a-a3ed-5242713b7ba2",
+    "data": [
+      {
+        "text": "Is there hospital training?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e762220d-842d-4c9e-97fd-1d1693b2b671",
+    "data": [
+      {
+        "text": "tell me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53792d32-4452-4d59-8dc0-6d7922eba05e",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27265a90-4402-4440-97b2-7527447b38a2",
+    "data": [
+      {
+        "text": "tell me yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9131e278-fd4b-4939-a383-f5a2aade2bf2",
+    "data": [
+      {
+        "text": "Tell me about the hostel facilities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

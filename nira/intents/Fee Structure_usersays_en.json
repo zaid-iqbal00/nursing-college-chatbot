@@ -1,0 +1,41 @@
+[
+  {
+    "id": "4e6ba917-bcb9-425a-917a-59dbdc5bb70c",
+    "data": [
+      {
+        "text": "cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1aa3318f-a984-4887-b9bc-d568f8d22314",
+    "data": [
+      {
+        "text": "Tell me about the fees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7c8b3d1-2571-4944-9feb-e050fc54eb43",
+    "data": [
+      {
+        "text": "What is the fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

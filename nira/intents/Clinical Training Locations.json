@@ -1,0 +1,42 @@
+{
+  "id": "d60e0ff6-5d6b-4c7f-98db-b8544e653778",
+  "name": "Clinical Training Locations",
+  "auto": true,
+  "contexts": [
+    "awaiting_clinical_training"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_scholarships_info",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You will receive clinical training at several locations including: District Hospital (Backundpur), Community Health Centers, Regional Hospital (Chartha), and Ranchi Neurosurgery and Allied Science Hospital (Ranchi, Jharkhand)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

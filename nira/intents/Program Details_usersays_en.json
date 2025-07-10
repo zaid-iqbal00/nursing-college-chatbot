@@ -1,0 +1,67 @@
+[
+  {
+    "id": "7a18ff06-b4c3-428b-93ea-5885c67edade",
+    "data": [
+      {
+        "text": "Give me details about the course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06e3baee-efc7-4e60-a382-101dd4d8649b",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "563423d0-f6f2-4d2e-8bf1-10da913082a4",
+    "data": [
+      {
+        "text": "What is B.Sc Nursing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd9cf602-f5c3-4c55-9a83-6035dc60e15e",
+    "data": [
+      {
+        "text": "tell me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7aa33c2-42b3-41c7-9469-f18689e18079",
+    "data": [
+      {
+        "text": "Tell me more about the program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "6d96805d-5639-400b-96d3-95ea5c755aeb",
+  "name": "Fee Structure",
+  "auto": true,
+  "contexts": [
+    "awaiting_fee_structure"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_hostel_and_training",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The tuition fee for the B.Sc Nursing program is ₹60,000 INR annually. Additionally, there is a bus fee of ₹10,000 INR, bringing the total to ₹70,000 INR. The fees are divided into three installments: 1st Installment: ₹30,000 (Due at the time of admission), 2nd Installment: ₹20,000 (Due after the first semester), 3rd Installment: ₹20,000 (Due after the second semester)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

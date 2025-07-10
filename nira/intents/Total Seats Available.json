@@ -1,0 +1,37 @@
+{
+  "id": "cf0dc774-21b2-4d19-ba03-eb8f220b7a7e",
+  "name": "Total Seats Available",
+  "auto": true,
+  "contexts": [
+    "awaiting_seats_info"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are a total of 60 seats available for the B.Sc Nursing program"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

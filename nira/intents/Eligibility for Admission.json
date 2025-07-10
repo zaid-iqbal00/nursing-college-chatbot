@@ -1,0 +1,42 @@
+{
+  "id": "1bdd2bf6-e138-4149-b42b-2c8ccb359317",
+  "name": "Eligibility for Admission",
+  "auto": true,
+  "contexts": [
+    "awaiting_eligibility_info"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_eligibility_info",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The eligibility criteria for admission are as follows: You must have studied Biology in your 12th grade. You need to pass the PNT Exam. Your age must be between 17 to 35 years."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

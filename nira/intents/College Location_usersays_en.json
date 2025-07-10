@@ -1,0 +1,41 @@
+[
+  {
+    "id": "5180f268-2c62-4d5e-8948-cd5c76899b1a",
+    "data": [
+      {
+        "text": "Where is the campus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a480fe0-46d0-44b2-9e52-b212beb6c4bd",
+    "data": [
+      {
+        "text": "Tell me about the location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9dd712e-83a0-4d9d-b8d1-a30f7f09b2de",
+    "data": [
+      {
+        "text": "Where is the college located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "942dc5dc-8a4a-473c-aa28-2dd6d2b3fd70",
+    "data": [
+      {
+        "text": "What recognitions does the college have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f8855e9-bc7f-410f-b399-54592f35472b",
+    "data": [
+      {
+        "text": "Tell me about the accreditation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3313c4a-78fb-4fbc-acc7-62ac27cefa91",
+    "data": [
+      {
+        "text": "\"Is the college recognized?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
